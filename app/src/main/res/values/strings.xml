@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">COV(ID)-19</string>
+    <string name="content_text">Virus Corona COVID-19</string>
+    <string name="content_pengertian">COVID-19 adalah penyakit menular yang disebabkan oleh sindrom pernapasan akut coronavirus 2 (SARS-CoV-2).
+        Penyakit ini pertama kali diidentifikasi pada Desember 2019 di Wuhan, ibukota provinsi Hubei China, dan sejak itu menyebar secara global,
+        mengakibatkan pandemi koronavirus 2019-20 yang sedang berlangsung.
+    </string>
+    <string name="content_pencegahan">
+      1. Cuci tangan secara teratur dengan sabun\n
+        2. Jaga jarak 1 meter dengan orang yang sakit\n
+        3. Hindari menyentuh wajah\n
+        4. Tutup mulut dan hidung saat batuk atau bersin\n
+        5. Tetap dirumah untuk mencegah penularan\n
+    </string>
+    <string name="content_gejala">1. Secara Umum\n
+    Mengalami demam, batuk kering, kelelahan dan kesulitan bernafas\n\n
+    2. Diawali dengan Diare\n
+        Pasien mengalami gejala gastrointesnial, terutama diare sebagai tanda pertama penyakit ini.\n\n
+     3. Masalah Pencernaan\n
+        Berlangsung dari satu hingga 14 hari, dengan durasi rata-rata lima hari.\n\n
+     4. Gejala Pernapasan\n
+        Salah satu gejala dari virus corona adalah mengalami sesak nafas\n
+    </string>
+    <string name="dummy">COVID-19</string>
+    <string name="pengertian">Pengertian</string>
+    <string name="pencegahan">Pencegahan</string>
+    <string name="gejala">Gejala</string>
+    <string name="call">119</string>
+    <string name="info">Pusat Informasi</string>
+    <string name="pusat">Pusat Informasi COVID-19</string>
+    <string name="hotline">Hotline COVID-19</string>
+    <string name="corona">Apa itu COVID-19?</string>
+</resources>
